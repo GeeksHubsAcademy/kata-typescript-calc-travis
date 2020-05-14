@@ -90,10 +90,3 @@ test('Test division para Calculadora con parametros a: 1 , b: Infinity ', functi
     var result = calc.division(1,Infinity);
     expect(result).toBe(expected);
 });
-
-test('Test division para Calculadora con parametros a: 1 , b: Infinity ', function () {
-    let calc = new Calculadora();
-    var expected = 1;
-    var result = calc.division(1,Infinity);
-    expect(result).toBe(expected);
-});
