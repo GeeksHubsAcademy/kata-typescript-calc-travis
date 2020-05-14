@@ -17,6 +17,7 @@ Procedimiento
 Hazte un Fork
 Trabaja en tu rama
 Haz una PR
+En caso de duda revisa el manual que se especifica en las referencias
 ```
 
 Install
@@ -37,3 +38,8 @@ Installing          npm i -D ts-jest @types/jest
 Creating config     npx ts-jest config:init	
 Running tests	    npx jest	
 ```
+
+    
+## Referencias
+
+* [Tutorial - Testing Automatizado](https://github.com/GeeksHubsAcademy/2020-js-vanilla-testing-FFFF/blob/master/README.md)
