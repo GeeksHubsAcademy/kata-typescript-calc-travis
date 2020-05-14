@@ -4,6 +4,8 @@
     <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/logo.png" >	
 </p>
 
+[![Build Status](https://travis-ci.com/GeeksHubsAcademy/kata-typescript-calc-travis.svg?branch=master)](https://travis-ci.com/GeeksHubsAcademy/kata-typescript-calc-travis)
+
 Descripción
 ```
 Desarrollar una calculadora mediante TDD.
