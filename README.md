@@ -4,6 +4,14 @@
     <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/logo.png" >	
 </p>
 
+Descripción
+```
+Desarrollar una calculadora mediante TDD.
+Otorgar la posibilidad de hacer operaciones de suma, resta, multiplicación y division
+Controlar las operaciones no deseadas
+Integración continua de Test mediante Travis CI
+```
+
 Install
 ```
 typescript    https://www.typescriptlang.org/
