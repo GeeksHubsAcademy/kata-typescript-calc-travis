@@ -12,6 +12,13 @@ Controlar las operaciones no deseadas
 Integración continua de Test mediante Travis CI
 ```
 
+Procedimiento
+```
+Hazte un Fork
+Trabaja en tu rama
+Haz una PR
+```
+
 Install
 ```
 typescript    https://www.typescriptlang.org/
